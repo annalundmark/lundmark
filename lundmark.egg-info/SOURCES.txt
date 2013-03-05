@@ -1,9 +1,13 @@
 setup.cfg
 setup.py
 lundmark/__init__.py
+lundmark/session2.py
+lundmark/session3.py
 lundmark.egg-info/PKG-INFO
 lundmark.egg-info/SOURCES.txt
 lundmark.egg-info/dependency_links.txt
 lundmark.egg-info/entry_points.txt
 lundmark.egg-info/not-zip-safe
 lundmark.egg-info/top_level.txt
+scripts/check_repo.py
+scripts/getting_data.py

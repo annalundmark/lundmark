@@ -4,9 +4,9 @@ import sys, os
 version = '0.1'
 
 setup(name='lundmark',
-	  scripts = ['scripts/getting_data.py']
       version=version,
       description="python course at scilife",
+      scripts = ['scripts/getting_data.py', 'scripts/check_repo.py'], 
       long_description="""\
 my first package""",
       classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
